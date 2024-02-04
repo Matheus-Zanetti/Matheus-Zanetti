@@ -11,7 +11,7 @@
 
 <h3 align= "left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/matheus-zanetti /" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/matheus-zanetti/" height="30" width="40" /></a> </p>
+<a href="https://www.linkedin.com/in/matheus-zanetti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/matheus-zanetti/" height="30" width="40" /></a> </p>
 
 
 <h3 align= "esquerda">Ferramentas:</h3>
