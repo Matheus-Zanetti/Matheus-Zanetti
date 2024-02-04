@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Matheus Zanetti</h1>
-<h3 align="center">Sou analista de dados e apaixonado por todas as áreas ligados a gestão de análise de dados.</h3>
+<h3 align="center">Sou analista de dados e apaixonado por todas as áreas ligados à gestão de análise de dados.</h3>
 
 - 🔭 Atualmente trabalho com análise e visualização de dados relacionadas a área de **Telecomunicações** 
 
