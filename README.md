@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou estudando deep learning com **Python**
 
-- 💬 Me pergunte sobre **Ciência, Visualização e Engenharia de dados.**
+- 💬 Me pergunte sobre **Ciência, Visualização e Engenharia de Dados.**
 
 - 📫 Você me acha em **matheuszanettiecon@gmail.com**
 
