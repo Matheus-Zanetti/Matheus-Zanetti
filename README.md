@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou Matheus Zanetti</h1>
 <h3 align="center">Sou analista de dados e apaixonado por todas as áreas ligados a gestão e análise de dados.</h3>
 
-- 🔭 Atualmente trabalho com análise e visualização de dados relacionadas a área de **Telecomunicações** 
+- 🔭 Atualmente trabalho com análise e visualização de dados para o setor de **Telecomunicações** 
 
 - 🌱 Atualmente estou estudando deep learning com **Python**
 
-- 💬 Me pergunte sobre **Ciência de dados, Visualização e Engenharia de dados.**
+- 💬 Me pergunte sobre **Ciência,  Visualização e Engenharia de dados.**
 
 - 📫 Você me acha em **matheuszanettiecon@gmail.com**
 
