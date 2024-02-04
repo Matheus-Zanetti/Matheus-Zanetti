@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho com análise e visualização de dados relacionadas a área de **Telecomunicações** 
 
-- 🌱 Atualmente estou estudando deep learning. **Python para visualização de dados**
+- 🌱 Atualmente estou estudando deep learning com **Python**
 
 - 💬 Me pergunte sobre **Ciência de dados, Visualização e Engenharia de dados.**
 
