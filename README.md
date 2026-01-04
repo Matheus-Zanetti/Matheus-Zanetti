@@ -80,10 +80,4 @@ Possuo forte foco em **engenharia aplicada ao negócio**, criando pipelines que 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 </p>
 
----
 
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-zanetti&show_icons=true&layout=compact"/>
-</p>
